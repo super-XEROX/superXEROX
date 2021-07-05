@@ -12,5 +12,7 @@ a ETHglobal Hack Money 2021 project
 https://github.com/super-XEROX/20210702-superxerox
 
 # slide
-https://slides.com/ming-derwang/deck-ea6370/edit
-# demo video
+https://slides.com/ming-derwang/deck-ea6370
+
+# presentation video
+https://youtu.be/CIbI9MI26tk (4 mins)

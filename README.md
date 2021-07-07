@@ -1,4 +1,6 @@
 # superXEROX
+https://showcase.ethglobal.co/hackmoney2021/superxerox
+
 a ETHglobal Hack Money 2021 project
 * To Copy Your Own NFT as Many as You Want.
 * Use Cases

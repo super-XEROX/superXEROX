@@ -7,7 +7,7 @@ a ETHglobal Hack Money 2021 project
 ** as your Gift Cards as a royal points.
 ** as your personal Chrismas Cards (with batch distribution).
 ** extend your NFT assets value, you can sales the copies too.
-** backup your didital assets.
+** backup your digital assets.
 ** share or sell the copies of your own digital art or music (with NFT) for royalty.
 
 # open source repo
